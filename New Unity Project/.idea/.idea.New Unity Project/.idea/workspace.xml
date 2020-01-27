@@ -12,10 +12,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/DebugObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AnimBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DoWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AnimBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DebugObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NumberWizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MatchID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -27,6 +28,7 @@
         <option value="$PROJECT_DIR$/Assets/MatchID.cs" />
         <option value="$PROJECT_DIR$/Assets/AnimBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/DebugObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/NumberWizard.cs" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
       <workItem from="1578598261902" duration="960000" />
       <workItem from="1579203514066" duration="1388000" />
       <workItem from="1579807452730" duration="954000" />
+      <workItem from="1580167665482" duration="595000" />
     </task>
     <servers />
   </component>

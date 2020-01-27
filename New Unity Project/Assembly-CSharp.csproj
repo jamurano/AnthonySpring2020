@@ -64,23 +64,24 @@
     <Compile Include="Assets\DoWork.cs" />
     <Compile Include="Assets\MatchID.cs" />
     <Compile Include="Assets\NameID.cs" />
+    <Compile Include="Assets\NumberWizard.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -266,13 +267,13 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/jessicamurano/Documents/Sophmore 2019/DGM 2670 Scripting 2019/Scripting2019/Scripting2019/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
