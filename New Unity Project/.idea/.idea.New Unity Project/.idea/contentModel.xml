@@ -8,8 +8,10 @@
         <e p="DebugObject.cs" t="Include" />
         <e p="DoWork.cs" t="Include" />
         <e p="MatchID.cs" t="Include" />
+        <e p="MouseLook.cs" t="Include" />
         <e p="NameID.cs" t="Include" />
         <e p="NumberWizard.cs" t="Include" />
+        <e p="PlayerMovement.cs" t="Include" />
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />

@@ -13,7 +13,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/NumberWizard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MatchID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DoWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AnimBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DebugObject.cs" root0="FORCE_HIGHLIGHTING" />
@@ -29,6 +31,9 @@
         <option value="$PROJECT_DIR$/Assets/AnimBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/DebugObject.cs" />
         <option value="$PROJECT_DIR$/Assets/NumberWizard.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerWalk.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +96,7 @@
       <workItem from="1580278501968" duration="1870000" />
       <workItem from="1580518736399" duration="1894000" />
       <workItem from="1580773555181" duration="849000" />
+      <workItem from="1580869871944" duration="2329000" />
     </task>
     <servers />
   </component>

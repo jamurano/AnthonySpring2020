@@ -63,8 +63,10 @@
     <Compile Include="Assets\DebugObject.cs" />
     <Compile Include="Assets\DoWork.cs" />
     <Compile Include="Assets\MatchID.cs" />
+    <Compile Include="Assets\MouseLook.cs" />
     <Compile Include="Assets\NameID.cs" />
     <Compile Include="Assets\NumberWizard.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
