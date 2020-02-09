@@ -12,11 +12,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/State.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdventureGame.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/State.cs" />
         <option value="$PROJECT_DIR$/Assets/AdventureGame.cs" />
       </list>
     </option>
@@ -68,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581127797977</updated>
       <workItem from="1581127800678" duration="1011000" />
+      <workItem from="1581213987756" duration="873000" />
     </task>
     <servers />
   </component>
@@ -81,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
