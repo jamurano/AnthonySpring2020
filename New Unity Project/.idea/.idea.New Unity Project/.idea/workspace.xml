@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/NumberWizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MatchID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DoWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AnimBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,6 +35,7 @@
         <option value="$PROJECT_DIR$/Assets/PlayerWalk.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Health.cs" />
       </list>
     </option>
   </component>
@@ -98,6 +100,8 @@
       <workItem from="1580773555181" duration="849000" />
       <workItem from="1580869871944" duration="2329000" />
       <workItem from="1581013557532" duration="166000" />
+      <workItem from="1581447544420" duration="1141000" />
+      <workItem from="1581449029351" duration="629000" />
     </task>
     <servers />
   </component>

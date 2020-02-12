@@ -7,6 +7,7 @@
         <e p="AnimBehaviour.cs" t="Include" />
         <e p="DebugObject.cs" t="Include" />
         <e p="DoWork.cs" t="Include" />
+        <e p="Health.cs" t="Include" />
         <e p="MatchID.cs" t="Include" />
         <e p="MouseLook.cs" t="Include" />
         <e p="NameID.cs" t="Include" />
