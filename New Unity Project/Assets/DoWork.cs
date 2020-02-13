@@ -1,11 +1,6 @@
 ﻿using UnityEngine;
 
-public class DoWork : MonoBehaviour
+public abstract class DoWork : ScriptableObject
 {
-    public NameID nameIdObj;
-
-    public void Work()
-    {
-        print(message: "Working");
-    }
+    public abstract void Work();
 }

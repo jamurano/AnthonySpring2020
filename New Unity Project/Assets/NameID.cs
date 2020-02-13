@@ -3,4 +3,5 @@
 [CreateAssetMenu]
 public class NameID : MonoBehaviour
 {
+    
 }
