@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IDBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HitBox.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,6 +43,7 @@
         <option value="$PROJECT_DIR$/Assets/AttackScript.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorData.cs" />
         <option value="$PROJECT_DIR$/Assets/DataStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/HitBox.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +114,7 @@
       <workItem from="1581646805728" duration="122000" />
       <workItem from="1582078528397" duration="676000" />
       <workItem from="1582227151194" duration="434000" />
+      <workItem from="1582253683712" duration="21000" />
     </task>
     <servers />
   </component>

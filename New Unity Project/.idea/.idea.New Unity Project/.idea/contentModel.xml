@@ -8,6 +8,7 @@
         <e p="ColorData.cs" t="Include" />
         <e p="DataStorage.cs" t="Include" />
         <e p="DoWork.cs" t="Include" />
+        <e p="HitBox.cs" t="Include" />
         <e p="IDBehaviour.cs" t="Include" />
         <e p="MatchIDBehaviour.cs" t="Include" />
         <e p="MathFunctions.cs" t="Include" />
