@@ -13,9 +13,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/AttackScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ColorData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DoWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MathFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MatchIDBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IDBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,6 +40,8 @@
         <option value="$PROJECT_DIR$/Assets/DoWork.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/AttackScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataStorage.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +111,7 @@
       <workItem from="1581621623211" duration="2411000" />
       <workItem from="1581646805728" duration="122000" />
       <workItem from="1582078528397" duration="676000" />
+      <workItem from="1582227151194" duration="434000" />
     </task>
     <servers />
   </component>
