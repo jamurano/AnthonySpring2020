@@ -63,6 +63,7 @@
     <Compile Include="Assets\ColorData.cs" />
     <Compile Include="Assets\DataStorage.cs" />
     <Compile Include="Assets\DoWork.cs" />
+    <Compile Include="Assets\EnemyWander.cs" />
     <Compile Include="Assets\HitBox.cs" />
     <Compile Include="Assets\IDBehaviour.cs" />
     <Compile Include="Assets\MatchIDBehaviour.cs" />
