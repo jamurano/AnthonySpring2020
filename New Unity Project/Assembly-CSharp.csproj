@@ -70,6 +70,7 @@
     <Compile Include="Assets\MathFunctions.cs" />
     <Compile Include="Assets\NameID.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\SpritRendererBehaviour.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
