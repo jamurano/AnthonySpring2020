@@ -8,6 +8,7 @@
         <e p="ColorData.cs" t="Include" />
         <e p="DataStorage.cs" t="Include" />
         <e p="DoWork.cs" t="Include" />
+        <e p="EnemyMovement.cs" t="Include" />
         <e p="EnemyWander.cs" t="Include" />
         <e p="HitBox.cs" t="Include" />
         <e p="IDBehaviour.cs" t="Include" />
@@ -15,6 +16,7 @@
         <e p="MathFunctions.cs" t="Include" />
         <e p="NameID.cs" t="Include" />
         <e p="PlayerMovement.cs" t="Include" />
+        <e p="SawPlayer.cs" t="Include" />
         <e p="SpritRendererBehaviour.cs" t="Include" />
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />
