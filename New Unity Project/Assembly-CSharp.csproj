@@ -59,20 +59,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AttackScript.cs" />
-    <Compile Include="Assets\ColorData.cs" />
-    <Compile Include="Assets\DataStorage.cs" />
-    <Compile Include="Assets\DoWork.cs" />
-    <Compile Include="Assets\EnemyMovement.cs" />
-    <Compile Include="Assets\EnemyWander.cs" />
-    <Compile Include="Assets\HitBox.cs" />
-    <Compile Include="Assets\IDBehaviour.cs" />
-    <Compile Include="Assets\MatchIDBehaviour.cs" />
-    <Compile Include="Assets\MathFunctions.cs" />
-    <Compile Include="Assets\NameID.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
-    <Compile Include="Assets\SawPlayer.cs" />
-    <Compile Include="Assets\SpritRendererBehaviour.cs" />
+    <Compile Include="Assets\Scripts\AttackScript.cs" />
+    <Compile Include="Assets\Scripts\ColorData.cs" />
+    <Compile Include="Assets\Scripts\DataStorage.cs" />
+    <Compile Include="Assets\Scripts\DoWork.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\EnemyWander.cs" />
+    <Compile Include="Assets\Scripts\HitBox.cs" />
+    <Compile Include="Assets\Scripts\IDBehaviour.cs" />
+    <Compile Include="Assets\Scripts\MatchIDBehaviour.cs" />
+    <Compile Include="Assets\Scripts\MathFunctions.cs" />
+    <Compile Include="Assets\Scripts\NameID.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\SawPlayer.cs" />
+    <Compile Include="Assets\Scripts\SpritRendererBehaviour.cs" />
+    <Compile Include="Assets\Scripts\StringListData.cs" />
+    <Compile Include="Assets\UI\TextBehaviour.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
