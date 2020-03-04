@@ -67,9 +67,12 @@
     <Compile Include="Assets\Scripts\EnemyWander.cs" />
     <Compile Include="Assets\Scripts\HitBox.cs" />
     <Compile Include="Assets\Scripts\IDBehaviour.cs" />
+    <Compile Include="Assets\Scripts\LootData.cs" />
+    <Compile Include="Assets\Scripts\LootObjects.cs" />
     <Compile Include="Assets\Scripts\MatchIDBehaviour.cs" />
     <Compile Include="Assets\Scripts\MathFunctions.cs" />
     <Compile Include="Assets\Scripts\NameID.cs" />
+    <Compile Include="Assets\Scripts\PickUp.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\SawPlayer.cs" />
     <Compile Include="Assets\Scripts\SpritRendererBehaviour.cs" />
