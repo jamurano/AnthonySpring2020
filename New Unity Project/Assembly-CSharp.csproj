@@ -60,6 +60,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AttackScript.cs" />
+    <Compile Include="Assets\Scripts\Collectable.cs" />
+    <Compile Include="Assets\Scripts\Collections.cs" />
     <Compile Include="Assets\Scripts\ColorData.cs" />
     <Compile Include="Assets\Scripts\DataStorage.cs" />
     <Compile Include="Assets\Scripts\DoWork.cs" />
@@ -79,6 +81,7 @@
     <Compile Include="Assets\Scripts\SawPlayer.cs" />
     <Compile Include="Assets\Scripts\SpritRendererBehaviour.cs" />
     <Compile Include="Assets\Scripts\StringListData.cs" />
+    <Compile Include="Assets\Scripts\WeaponCollectable.cs" />
     <Compile Include="Assets\UI\TextBehaviour.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jessicamurano/Desktop/Anthonys Class Character Design/AnthonySpring2020/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

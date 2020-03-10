@@ -6,6 +6,8 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AttackScript.cs" t="Include" />
+          <e p="Collectable.cs" t="Include" />
+          <e p="Collections.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="DataStorage.cs" t="Include" />
           <e p="DoWork.cs" t="Include" />
@@ -25,6 +27,7 @@
           <e p="SawPlayer.cs" t="Include" />
           <e p="SpritRendererBehaviour.cs" t="Include" />
           <e p="StringListData.cs" t="Include" />
+          <e p="WeaponCollectable.cs" t="Include" />
         </e>
         <e p="UI" t="Include">
           <e p="TextBehaviour.cs" t="Include" />
