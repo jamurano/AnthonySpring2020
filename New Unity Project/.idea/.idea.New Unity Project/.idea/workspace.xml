@@ -22,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringListData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InventoryUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InventoryMenu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WeaponCollectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InventoryMenu.cs" />
       </list>
     </option>
   </component>
@@ -135,7 +137,7 @@
       <workItem from="1583264250562" duration="1629000" />
       <workItem from="1583291672157" duration="148000" />
       <workItem from="1583810319599" duration="78000" />
-      <workItem from="1583862905279" duration="1646000" />
+      <workItem from="1583862905279" duration="1821000" />
     </task>
     <servers />
   </component>

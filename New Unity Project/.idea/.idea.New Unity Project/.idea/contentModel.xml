@@ -15,6 +15,7 @@
           <e p="EnemyWander.cs" t="Include" />
           <e p="HitBox.cs" t="Include" />
           <e p="IDBehaviour.cs" t="Include" />
+          <e p="InventoryMenu.cs" t="Include" />
           <e p="InventoryUI.cs" t="Include" />
           <e p="LootData.cs" t="Include" />
           <e p="LootObjects.cs" t="Include" />
