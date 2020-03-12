@@ -19,6 +19,7 @@
           <e p="InventoryUI.cs" t="Include" />
           <e p="LootData.cs" t="Include" />
           <e p="LootObjects.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
           <e p="MatchIDBehaviour.cs" t="Include" />
           <e p="MathFunctions.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
@@ -28,6 +29,7 @@
           <e p="SawPlayer.cs" t="Include" />
           <e p="SpritRendererBehaviour.cs" t="Include" />
           <e p="StringListData.cs" t="Include" />
+          <e p="TriggerEvents.cs" t="Include" />
           <e p="WeaponCollectable.cs" t="Include" />
         </e>
         <e p="UI" t="Include">
