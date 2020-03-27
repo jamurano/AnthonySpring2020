@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AttackScript.cs" t="Include" />
+          <e p="BoolEvents.cs" t="Include" />
           <e p="CharacterMoveAndRotate.cs" t="Include" />
           <e p="Collectable.cs" t="Include" />
           <e p="Collections.cs" t="Include" />

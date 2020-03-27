@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMoveAndRotate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoolEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,6 +67,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMoveAndRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoolEvents.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +148,7 @@
       <workItem from="1583862905279" duration="1821000" />
       <workItem from="1583987231797" duration="111000" />
       <workItem from="1584037290322" duration="186000" />
+      <workItem from="1585272399514" duration="35000" />
     </task>
     <servers />
   </component>
